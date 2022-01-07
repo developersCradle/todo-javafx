@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<todos>
+<todo>
+	<done>True</done>
+	<task>Ruoki kissa</task>
+	<date>21/12/2001</date>
+</todo>
+<todo>
+	<done>False</done>
+	<task>Tee todo appi</task>
+	<date>11/02/1994</date>
+</todo>
+<todo>
+	<done>True</done>
+	<task>Ole laiska ja mene nukkumaan</task>
+	<date>31/12/1997</date>
+</todo>
+</todos>
